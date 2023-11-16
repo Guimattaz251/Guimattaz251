@@ -7,7 +7,7 @@ As I am curious and like to understand how things work it would be boring to stu
 
 🚀 Technologies:
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
           
 
 💬 My view on the market:
