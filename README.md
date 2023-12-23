@@ -1,6 +1,6 @@
 # Hi, I'm Guilherme Matta and this is my GitHub 
 
-I am a young man who loves to learn new things, overcome challenges and solve problems, work with software development since the last 6 months, and work as a Fullstack developer.
+I am a young man who loves to learn new things, overcome challenges and solve problems, work with software development since the last 8 months, and work as a Fullstack developer.
 
 🤔 Why Fullstack?
 As I am curious and like to understand how things work it would be boring to study only the front without understanding about the back, I like to have a complete sense of everything I see.
