@@ -1,6 +1,6 @@
 # Hi, I'm Guilherme Matta and this is my GitHub 
 
-I am a young man who loves to learn new things, overcome challenges and solve problems, work with software development since the last 8 months, and work as a QA Engineer.
+I am a young man who loves to learn new things, overcome challenges and solve problems, work with software development since the last 9 months, and work as a QA Engineer.
 
  Languages:
 
