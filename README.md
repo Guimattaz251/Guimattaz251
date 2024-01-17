@@ -11,7 +11,8 @@ I am a young man who loves to learn new things, overcome challenges and solve pr
 
 Databases:
 
- <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+ <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> <img width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+          
 
 Technologies:
 
