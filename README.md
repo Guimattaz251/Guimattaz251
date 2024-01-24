@@ -27,7 +27,7 @@
 
 <!-- GithubStats -->
 ![Guilherme Matta GitHub stats](https://github-readme-stats.vercel.app/api?username=Guimattaz251&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimattaz251)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guimattaz251&layout=compact)
 
 
 
