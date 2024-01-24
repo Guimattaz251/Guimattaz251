@@ -48,4 +48,6 @@
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   </div>
+
+  <img src="https://raw.githubusercontent.com/Guimattaz251/Guimattaz251/output/snake.svg" alt="Snake animation" />
   
